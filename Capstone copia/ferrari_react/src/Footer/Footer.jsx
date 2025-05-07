@@ -55,15 +55,15 @@ const Footer = () => {
             <div className="d-flex justify-content-center justify-content-md-end gap-3">
               <a href="#">
                 <img
-                  src="/assets/facebook.png"
+                  src="src/assets/img/footer/facebook.png"
                   alt="Facebook"
-                  width={24}
+                  width={35}
                   height={24}
                 />
               </a>
               <a href="#">
                 <img
-                  src="/assets/twitter.png"
+                  src="src/assets/img/footer/twitter.png"
                   alt="Twitter"
                   width={24}
                   height={24}
@@ -71,7 +71,7 @@ const Footer = () => {
               </a>
               <a href="#">
                 <img
-                  src="/assets/instagram.png"
+                  src="src/assets/img/footer/instagram.png"
                   alt="Instagram"
                   width={24}
                   height={24}

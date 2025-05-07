@@ -31,20 +31,20 @@ const NavBar = () => {
             >
               Monoposto Ferrari
             </Nav.Link>
-            <Nav.Link
+            {/* <Nav.Link
               href="#"
               to="/piloti"
               className="col_navcomp mx-1 text-center"
             >
               Piloti Ferrari
-            </Nav.Link>
-            <Nav.Link
+            </Nav.Link> */}
+            {/* <Nav.Link
               href="#"
               to="/storia"
               className="col_navcomp mx-1 text-center"
             >
               Storia della Ferrari
-            </Nav.Link>
+            </Nav.Link> */}
             <Nav.Link
               as={Link}
               to="/risultati"
@@ -60,7 +60,7 @@ const NavBar = () => {
               Tecnologia Ferrari
             </Nav.Link>
             <Nav.Link
-              href="#"
+              as={Link}
               to="/news"
               className="col_navcomp mx-1 text-center"
             >

@@ -21,7 +21,7 @@ const HomeTecnica = () => {
   return (
     <div>
       <Container fluid className="px-5">
-        <h1 className="fw-light my-5 title_two">Areodinamica e Tecologie</h1>
+        <h1 className="fw-light my-5 title_two">Areodinamica e Tecnologie</h1>
         <Row>
           <Col md={6}>
             <Card className="shadow-sm">
