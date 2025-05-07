@@ -1,0 +1,462 @@
+/* palette di colori */
+:root {
+  --rosso-scuro: #d40000;
+  --rosso: #ed2603;
+  --rosso-arancio: #ff2802;
+  --giallo: #fff200;
+  --nero: #000000;
+  --bianco: #ffffff;
+  --grigio-chiaro: #4d4d4d;
+}
+
+/* regole generali */
+p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.container_reset {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* navbar */
+
+.bg_navbar {
+  background-color: var(--nero);
+}
+
+.col_navcomp {
+  color: var(--bianco);
+  position: relative;
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: color 0.3s, transform 0.3s;
+}
+
+.col_navcomp::after {
+  content: "";
+  position: absolute;
+  left: 70%;
+  bottom: 0;
+  width: 0%;
+  height: 2px;
+  background-color: var(--rosso-scuro);
+  transition: width 0.3s, left 0.3s;
+}
+
+.col_navcomp:hover {
+  color: var(--rosso-scuro);
+  transform: scale(1.1);
+}
+
+.col_navcomp:hover::after {
+  width: 100%;
+  left: 0;
+}
+
+.navbar-toggler-icon {
+  background-image: url(src/assets/img/NavBarList.png);
+  height: 20px !important;
+  width: 20px !important;
+}
+
+/* homepage */
+
+/* carousel */
+.carousel_img {
+  height: 90vh;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.carousel_img2 {
+  object-position: 50%;
+}
+
+@keyframes fadeInFromBottom {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.carousel-caption {
+  opacity: 0;
+  animation: fadeInFromBottom 1s ease-out forwards;
+}
+
+.carousel-item-next .carousel-caption,
+.carousel-item-prev .carousel-caption {
+  animation: fadeInFromBottom 1s ease-out forwards;
+}
+
+.title_hero h1 {
+  font-size: 48px;
+  font-weight: 200;
+}
+.title_hero p {
+  margin-bottom: 2rem !important;
+}
+
+.carousel-indicators .active {
+  background-color: var(--rosso-arancio);
+}
+
+.carousel-indicators [data-bs-target] {
+  height: 15px !important;
+  width: 15px !important;
+  border-radius: 100% !important;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  display: none;
+}
+
+/* section home monoposto*/
+
+.card-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-top-left-radius: 0.375rem;
+  border-top-right-radius: 0.375rem;
+  border-bottom-right-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid var(--grigio-chiaro);
+  border-radius: 10px;
+  border-top: none;
+  border-top-left-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0.375rem;
+  border-bottom-left-radius: 0.375rem;
+}
+
+.card {
+  background-color: transparent !important;
+  color: var(--bianco) !important;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.text_box {
+  border: 1px solid var(--grigio-chiaro);
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 12px;
+}
+
+.text_box:hover {
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.6);
+  transition: box-shadow 0.1s ease-in-out;
+  background-color: var(--rosso-scuro);
+
+  cursor: pointer;
+}
+
+.year_car {
+  color: var(--rosso-scuro);
+}
+
+.title_home,
+.title_two,
+.title_three,
+.title_four {
+  position: relative;
+  opacity: 0;
+  transform: translateX(-100%);
+  transition: all 4s ease-out;
+  color: var(--rosso-scuro);
+}
+
+/* .title_two {
+  transition: all 4s ease-out;
+} */
+
+.title_home.show-title,
+.title_two.show-title,
+.title_three.show-title,
+.title_four.show-title {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.title_home::after,
+.title_two::after,
+.title_three::after,
+.title_four::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 0.5px;
+  background-color: var(--rosso-scuro);
+  transform: scaleX(0);
+  transition: transform 3s ease-out;
+}
+
+.title_home.show-title::after,
+.title_two.show-title::after,
+.title_three.show-title::after,
+.title_four.show-title::after {
+  transform: scaleX(1);
+  transform-origin: right;
+}
+
+.card_monoposto {
+  position: relative;
+  overflow: hidden;
+  background-color: var(--nero);
+}
+
+.card_monoposto::before {
+  content: "";
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.4) 10%,
+    transparent 80%
+  );
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease-out;
+  left: var(--x);
+  top: var(--y);
+}
+
+.card_monoposto:hover::before {
+  opacity: 1;
+}
+
+.btn_vedipiu:hover {
+  max-width: fit-content !important;
+  text-align: center;
+  background-color: var(--rosso);
+  color: var(--bianco) !important;
+}
+
+.btn_vedipiu:hover::before {
+  right: 0;
+}
+
+.btn-check:checked + .btn,
+.btn.active,
+.btn.show,
+.btn:first-child:active,
+:not(.btn-check) + .btn:active {
+  box-shadow: none !important;
+  background-color: var(--giallo);
+  color: var(--nero);
+}
+
+.btn_vedipiu {
+  max-width: fit-content !important;
+  position: relative;
+  overflow: hidden;
+  max-width: fit-content !important;
+  text-align: center;
+  background-color: var(--giallo);
+  color: var(--nero);
+  padding: 10px 40px;
+  border-color: transparent !important;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.btn_vedipiu::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 100%;
+  width: 100%;
+  height: 100%;
+  background-color: var(--rosso);
+  color: var(--bianco);
+  transition: right 0.4s ease-in-out;
+}
+
+.btn_vedipiu div {
+  position: relative;
+  z-index: 100;
+  transition: color 0.5s ease-in-out;
+}
+
+.btn_vedipiu:hover span {
+  color: var(--bianco);
+}
+
+/* gp carosello */
+.gp_carousel .carousel-indicators {
+  position: static !important;
+}
+.circuit_image {
+  background-color: var(--bianco);
+  /* padding: 2rem; */
+  border-radius: 10px;
+  opacity: 100%;
+}
+
+.border_circuit {
+  border: 1px solid var(--rosso-scuro);
+  width: fit-content;
+  border-radius: 12px;
+  background-color: var(--bianco);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.show-title {
+  opacity: 1;
+}
+
+.gp_carousel {
+  max-width: 100%;
+  margin: auto;
+}
+
+.circuit_image {
+  max-width: 100%;
+  height: auto;
+  max-height: 300px;
+}
+
+.title_gp {
+  font-size: 1.5rem;
+  position: relative;
+  padding: 10px 20px;
+  background-color: var(--nero);
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.title_gp:hover {
+  transform: translateY(-10px);
+  border-bottom: 1px solid var(--grigio-chiaro);
+}
+
+.title_gp::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  width: 100%;
+  transform: translateY(-50%);
+}
+
+.title_gp::after {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  right: 0;
+}
+
+.table {
+  --bs-table-color-type: none !important;
+  --bs-table-bg-type: none !important;
+  --bs-table-color: var(--bianco) !important;
+  --bs-table-bg: transparent !important;
+  --bs-table-border-color: var(--grigio-chiaro);
+  --bs-table-hover-color: var(--bianco) !important;
+  width: 100%;
+
+  margin-bottom: 1rem;
+  vertical-align: top;
+  border-color: var(--bs-table-border-color);
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+  --bs-table-color-type: var(--bianco) !important;
+}
+
+.title_news {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: 4.5rem;
+}
+
+/* footer */
+
+.bg_footer {
+  background-color: rgba(50, 50, 50, 0.378);
+}
+
+a.text-secondary {
+  position: relative;
+  transition: all 0.3s ease-in-out;
+}
+
+a.text-secondary:hover {
+  color: white !important;
+  transform: translateY(-3px);
+}
+
+a.text-secondary::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -3px;
+  width: 0;
+  height: 1px;
+  background-color: white;
+  transition: all 0.3s ease-in-out;
+  transform: translateX(-50%);
+}
+
+a.text-secondary:hover::after {
+  width: 100%;
+}
+
+/* monoposto section */
+
+.monoposto_years .nav-link {
+  color: var(--bianco);
+}
+
+.monoposto_years .nav-tabs {
+  --bs-nav-tabs-border-width: 25% !important;
+}
+
+/* gameSection */
+
+.gameSection .card-body {
+  border: none !important;
+}
+
+.externalBorder {
+  border: 1px solid var(--grigio-chiaro) !important;
+  border-radius: 10px !important;
+}
+
+.bg_gamecircuit {
+  background-color: var(--bianco);
+  border-radius: 30px;
+  width: 250px;
+  height: 250px;
+  border: 1px solid var(--rosso);
+}

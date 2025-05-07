@@ -1,0 +1,244 @@
+{
+    "Foglio1":[
+     {
+      "Circuit_Id": "Id_1",
+      "Circuit_Name": "Gran Premio d'Australia",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Melbourne_Grand_Prix_Circuit",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0a\/Albert_Park_Circuit_2021.svg\/440px-Albert_Park_Circuit_2021.svg.png",
+      "Race_Start": "03\/13\/2025",
+      "Race_end": "03\/15\/2025",
+      "Location": "Melbourne, Australia",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_2",
+      "Circuit_Name": "Gran Premio di Cina",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Shanghai_International_Circuit",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/14\/Shanghai_International_Racing_Circuit_track_map.svg\/500px-Shanghai_International_Racing_Circuit_track_map.svg.png",
+      "Race_Start": "03\/21\/2025",
+      "Race_end": "03\/23\/2025",
+      "Location": "Shanghai, Cina",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_3",
+      "Circuit_Name": "Gran Premio del Giappone",
+      "Url": "https:\/\/en.wikipedia.org\/wiki\/Japanese_Grand_Prix",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/ec\/Suzuka_circuit_map--2005.svg\/440px-Suzuka_circuit_map--2005.svg.png",
+      "Race_Start": "04\/04\/2025",
+      "Race_end": "04\/06\/2025",
+      "Location": "Suzuka, Giappone",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_4",
+      "Circuit_Name": "Gran Premio di Bahrain",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Bahrain_International_Circuit",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/29\/Bahrain_International_Circuit--Grand_Prix_Layout.svg\/500px-Bahrain_International_Circuit--Grand_Prix_Layout.svg.png",
+      "Race_Start": "04\/11\/2025",
+      "Race_end": "04\/13\/2025",
+      "Location": "Sakhir, Bahrain",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_5",
+      "Circuit_Name": "Gran Premio d'Arabia Saudita",
+      "Url": "https:\/\/en.wikipedia.org\/wiki\/Saudi_Arabian_Grand_Prix",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4c\/Jeddah_Street_Circuit_2021.svg\/480px-Jeddah_Street_Circuit_2021.svg.png",
+      "Race_Start": "04\/18\/2025",
+      "Race_end": "04\/20\/2025",
+      "Location": "Jeddah, Arabia Saudita",
+      "Sprint_Race": "true"
+     },
+     {
+      "Circuit_Id": "Id_6",
+      "Circuit_Name": "Gran Premio di Miami",
+      "Url": "https:\/\/en.wikipedia.org\/wiki\/Miami_International_Autodrome",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/49\/Hard_Rock_Stadium_Circuit_2022.svg\/480px-Hard_Rock_Stadium_Circuit_2022.svg.png",
+      "Race_Start": "05\/02\/2025",
+      "Race_end": "05\/04\/2025",
+      "Location": "Miami, Stati Uniti",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_7",
+      "Circuit_Name": "Gran premio dell'Emilia Romagna",
+      "Url": "https:\/\/en.wikipedia.org\/wiki\/Imola_Circuit",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/22\/Imola_2009.svg\/480px-Imola_2009.svg.png",
+      "Race_Start": "05\/16\/2025",
+      "Race_end": "05\/18\/2025",
+      "Location": "Imola, Italia",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_8",
+      "Circuit_Name": "Gran Premio di Monaco",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_de_Monaco",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/36\/Monte_Carlo_Formula_1_track_map.svg\/500px-Monte_Carlo_Formula_1_track_map.svg.png",
+      "Race_Start": "05\/23\/2025",
+      "Race_end": "05\/25\/2025",
+      "Location": "Montecarlo, Monaco",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_9",
+      "Circuit_Name": "Gran Premio di Spagna",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_de_Barcelona-Catalunya",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/87\/Circuit_de_Catalunya_moto_2021.svg\/500px-Circuit_de_Catalunya_moto_2021.svg.png",
+      "Race_Start": "05\/30\/2025",
+      "Race_end": "06\/01\/2025",
+      "Location": "Barcellona, Spagna",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_10",
+      "Circuit_Name": "Gran Premio del Canada",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_Gilles_Villeneuve",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f9\/%C3%8Ele_Notre-Dame_%28Circuit_Gilles_Villeneuve%29.svg\/560px-%C3%8Ele_Notre-Dame_%28Circuit_Gilles_Villeneuve%29.svg.png",
+      "Race_Start": "06\/13\/2025",
+      "Race_end": "06\/15\/2025",
+      "Location": "Montreal, Canada",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_11",
+      "Circuit_Name": "Gran Premio di Austria",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Red_Bull_Ring",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/4e\/Spielberg_bare_map_numbers_contextless_2021_corner_names.svg\/500px-Spielberg_bare_map_numbers_contextless_2021_corner_names.svg.png",
+      "Race_Start": "06\/27\/2025",
+      "Race_end": "06\/29\/2025",
+      "Location": "Spielberg, Austria",
+      "Sprint_Race": "true"
+     },
+     {
+      "Circuit_Id": "Id_12",
+      "Circuit_Name": "Gran Premio di Gran Bretagna",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Silverstone_Circuit",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/bd\/Silverstone_Circuit_2020.png\/500px-Silverstone_Circuit_2020.png",
+      "Race_Start": "07\/04\/2025",
+      "Race_end": "07\/06\/2025",
+      "Location": "Silverstone, Gran Bretagna",
+      "Sprint_Race": "true"
+     },
+     {
+      "Circuit_Id": "Id_13",
+      "Circuit_Name": "Gran Premio di Belgio",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Circuit_de_Spa-Francorchamps",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/54\/Spa-Francorchamps_of_Belgium.svg\/520px-Spa-Francorchamps_of_Belgium.svg.png",
+      "Race_Start": "08\/25\/2025",
+      "Race_end": "08\/27\/2025",
+      "Location": "Spa-Francorchamps, Belgio",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_14",
+      "Circuit_Name": "Gran Premio d'Ungheria",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Hungaroring",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/91\/Hungaroring.svg\/520px-Hungaroring.svg.png",
+      "Race_Start": "08\/01\/2025",
+      "Race_end": "08\/03\/2025",
+      "Location": "Budapest, Ungheria",
+      "Sprint_Race": "true"
+     },
+     {
+      "Circuit_Id": "Id_15",
+      "Circuit_Name": "Gran premio dell'Olanda",
+      "Url": "https:\/\/en.wikipedia.org\/wiki\/Circuit_Zandvoort",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/78\/Zandvoort_Circuit.png\/480px-Zandvoort_Circuit.png",
+      "Race_Start": "08\/29\/2025",
+      "Race_end": "08\/31\/2025",
+      "Location": "Zandvoort, Olanda",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_16",
+      "Circuit_Name": "Gran Premio d'Italia",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Autodromo_Nazionale_Monza",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f8\/Monza_track_map.svg\/520px-Monza_track_map.svg.png",
+      "Race_Start": "09\/05\/2025",
+      "Race_end": "09\/07\/2025",
+      "Location": "Monza, Italia",
+      "Sprint_Race": "true"
+     },
+     {
+      "Circuit_Id": "Id_17",
+      "Circuit_Name": "Gran Premio del Azerbaijan",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Baku_City_Circuit",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/0a\/Albert_Park_Circuit_2021.svg\/440px-Albert_Park_Circuit_2021.svg.png",
+      "Race_Start": "09\/19\/2025",
+      "Race_end": "09\/21\/2025",
+      "Location": "Baku, Azerbaijan",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_18",
+      "Circuit_Name": "Gran Premio di Singapore",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Marina_Bay_Street_Circuit",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/8b\/Marina_Bay_circuit_2023.svg\/440px-Marina_Bay_circuit_2023.svg.png",
+      "Race_Start": "10\/03\/2025",
+      "Race_end": "10\/05\/2025",
+      "Location": "Singapore",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_19",
+      "Circuit_Name": "Gran Premio degli Stati Uniti",
+      "Url": "https:\/\/en.wikipedia.org\/wiki\/Circuit_of_the_Americas",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a5\/Austin_circuit.svg\/480px-Austin_circuit.svg.png",
+      "Race_Start": "10\/17\/2025",
+      "Race_end": "10\/19\/2025",
+      "Location": "Austin, Stati Uniti",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_20",
+      "Circuit_Name": "Gran Premio del Messico",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Aut%C3%B3dromo_Hermanos_Rodr%C3%Adguez",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/36\/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg\/500px-Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg.png",
+      "Race_Start": "10\/24\/2025",
+      "Race_end": "10\/26\/2025",
+      "Location": "Città del Messico, Messico",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_21",
+      "Circuit_Name": "Gran Premio del Brasile",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/cf\/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_%28AKA_Interlagos%29_track_map.svg\/520px-Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_%28AKA_Interlagos%29_track_map.svg.png",
+      "Race_Start": "11\/07\/2025",
+      "Race_end": "11\/09\/2025",
+      "Location": "San Paolo, Brasile",
+      "Sprint_Race": "true"
+     },
+     {
+      "Circuit_Id": "Id_22",
+      "Circuit_Name": "Gran Premio di Las Vegas",
+      "Url": "https:\/\/en.wikipedia.org\/wiki\/Las_Vegas_Grand_Prix#Circuit",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/4\/43\/2023_Las_Vegas_street_circuit.svg\/500px-2023_Las_Vegas_street_circuit.svg.png",
+      "Race_Start": "11\/20\/2025",
+      "Race_end": "11\/22\/2025",
+      "Location": "Las Vegas, Stati Uniti",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_23",
+      "Circuit_Name": "Gran Premio del Qatar",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Losail_International_Circuit",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c7\/Lusail_International_Circuit_2023.svg\/500px-Lusail_International_Circuit_2023.svg.png",
+      "Race_Start": "11\/28\/2025",
+      "Race_end": "11\/30\/2025",
+      "Location": "Lusail, Qatar",
+      "Sprint_Race": "false"
+     },
+     {
+      "Circuit_Id": "Id_24",
+      "Circuit_Name": "Gran Premio di Abu Dhabi",
+      "Url": "http:\/\/en.wikipedia.org\/wiki\/Yas_Marina_Circuit",
+      "Image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b0\/Yas_Marina_Circuit.png\/500px-Yas_Marina_Circuit.png",
+      "Race_Start": "12\/05\/2025",
+      "Race_end": "12\/07\/2025",
+      "Location": "Abu Dhabi, Emirati Arabi Uniti",
+      "Sprint_Race": "false"
+     }
+    ]
+    }

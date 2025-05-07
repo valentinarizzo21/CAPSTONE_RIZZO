@@ -1,0 +1,536 @@
+[
+      {
+        "nome": "Ferrari 125 F1",
+        "anno": 1948,
+        "motore": "V12 1.5L",
+        "potenza": "140 CV",
+        "peso": "600 kg",
+        "velocita_max": "250 km/h",
+        "piloti": ["Alberto Ascari", "Giuseppe Farina"],
+        "successo": "1 vittoria nel campionato di Formula 1",
+        "caratteristiche": [
+          "Primo motore Ferrari V12",
+          "Telaio in acciaio",
+          "Primo modello Ferrari in Formula 1"
+        ],
+        "immagine": "https://www.gpreplicas.org/wp-content/uploads/2024/08/ferrari-125-f1-ferrari-275-f1-1950-nr40-alberto-ascari-second-place-monaco-gp-02-web.jpg"
+      },
+      {
+        "nome": "Ferrari 166 F2",
+        "anno": 1950,
+        "motore": "V12 2.0L",
+        "potenza": "160 CV",
+        "peso": "720 kg",
+        "velocita_max": "270 km/h",
+        "piloti": ["Alberto Ascari", "Giuseppe Farina"],
+        "successo": "Vittoria nel Campionato Europeo di Formula 2",
+        "caratteristiche": [
+          "Telaio in acciaio",
+          "Il primo motore a 12 cilindri Ferrari di successo",
+          "Sviluppo successivo della Ferrari 125"
+        ],
+        "immagine": "https://www.conceptcarz.com/images/Ferrari/Ferrari-166-F2-Image-01.jpg"
+      },
+      {
+        "nome": "Ferrari 500 F2",
+        "anno": 1952,
+        "motore": "V8 2.0L",
+        "potenza": "190 CV",
+        "peso": "550 kg",
+        "velocita_max": "260 km/h",
+        "piloti": ["Alberto Ascari"],
+        "successo": "Vittoria nel Campionato Mondiale 1952",
+        "caratteristiche": [
+          "Vittoria del campionato costruttori 1952",
+          "Prima Ferrari a dominare la F1"
+        ],
+        "immagine": "https://www.museoauto.com/wp-content/uploads/2024/06/Ferrari-500-F2-1952_01b.jpg"
+      },
+      {
+        "nome": "Ferrari 555 F1",
+        "anno": 1954,
+        "motore": "V8 2.5L",
+        "potenza": "210 CV",
+        "peso": "560 kg",
+        "velocita_max": "280 km/h",
+        "piloti": ["Juan Manuel Fangio", "Giuseppe Farina"],
+        "successo": "Vittorie parziali in diverse gare",
+        "caratteristiche": [
+          "Evoluzione della Ferrari 500",
+          "Motore V8 migliorato per una maggiore potenza"
+        ],
+        "immagine": "https://www.ultimatecarpage.com/images/car/122/Ferrari-555-F1-Super-Squalo-183472.jpg"
+      },
+      {
+        "nome": "Ferrari 801 F1",
+        "anno": 1956,
+        "motore": "V8 2.5L",
+        "potenza": "220 CV",
+        "peso": "550 kg",
+        "velocita_max": "285 km/h",
+        "piloti": ["Juan Manuel Fangio", "Peter Collins"],
+        "successo": "1 vittoria in gara, ma non vinse il campionato",
+        "caratteristiche": [
+          "Stabilità migliorata e design ottimizzato per l'aerodinamica",
+          "Fangio vinse il titolo di campione mondiale con una vettura Ferrari"
+        ],
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e087a41a4d6ab0aabb44ddb-ferrari-801-f1-social?width=1080"
+      },
+      {
+        "nome": "Ferrari 156 F1",
+        "anno": 1961,
+        "motore": "V6 1.5L",
+        "potenza": "150 CV",
+        "peso": "560 kg",
+        "velocita_max": "275 km/h",
+        "piloti": ["Phil Hill", "Wolfgang von Trips"],
+        "successo": "Vittoria nel Campionato Mondiale 1961",
+        "caratteristiche": [
+          "Modello famoso per il 'Sharknose' design",
+          "Phil Hill vinse il campionato mondiale piloti",
+          "Prima vittoria di un pilota statunitense nel campionato mondiale"
+        ],
+        "immagine": "https://www.museoauto.com/wp-content/uploads/2024/06/Ferrari-156-F1-1963_01b.jpg"
+      },
+      {
+        "nome": "Ferrari 246 F1",
+        "anno": 1958,
+        "motore": "V6 2.4L",
+        "potenza": "220 CV",
+        "peso": "560 kg",
+        "velocita_max": "290 km/h",
+        "piloti": ["Mike Hawthorn", "Peter Collins"],
+        "successo": "Vittoria nel Campionato Mondiale 1958",
+        "caratteristiche": [
+          "Telaio in acciaio monoscocca",
+          "L'auto che ha portato la Ferrari a vincere il Campionato del Mondo Costruttori nel 1958"
+        ],
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e0b2660a4d6ab0aabb4e45b-ferrari-246-f1-66-1966-share?width=1080"
+      },
+      {
+        "nome": "Ferrari 312",
+        "anno": 1966,
+        "piloti": ["John Surtees", "Ludovico Scarfiotti"],
+        "motore": "V12 3.0L",
+        "potenza": "280 CV",
+        "velocita_max": "300 km/h",
+        "immagine": "https://s3.wheelsage.org/format/picture/picture-preview-large/f/ferrari/312_67/ferrari_312_67_1.jpg"
+      },
+      {
+        "nome": "Ferrari 312B",
+        "anno": 1970,
+        "piloti": ["Jackie Ickx", "Clay Regazzoni"],
+        "motore": "V12 3.0L",
+        "potenza": "300 CV",
+        "velocita_max": "305 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ferrari_312B_Donington.jpg"
+      },
+      {
+        "nome": "Ferrari 312F1",
+        "anno": 1966,
+        "piloti": ["Mike Parkes", "Ludovico Scarfiotti"],
+        "motore": "V12 3.0L",
+        "potenza": "280 CV",
+        "velocita_max": "310 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ferrari_312_-_002.jpg/1200px-Ferrari_312_-_002.jpg"
+      },
+      {
+        "nome": "Ferrari 246 F1",
+        "anno": 1962,
+        "piloti": ["John Surtees", "Lorenzo Bandini"],
+        "motore": "V6 2.4L",
+        "potenza": "230 CV",
+        "velocita_max": "280 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/1/18/FerrariPaddock.jpg"
+      },
+      {
+        "nome": "Ferrari 312B2",
+        "anno": 1971,
+        "piloti": ["Jackie Ickx", "Clay Regazzoni"],
+        "motore": "V12 3.0L",
+        "potenza": "320 CV",
+        "velocita_max": "310 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/R%C3%A9tromobile_2017_-_Ferrari_312_B2_-_1972_-_002.jpg/960px-R%C3%A9tromobile_2017_-_Ferrari_312_B2_-_1972_-_002.jpg"
+      },
+      {
+        "nome": "Ferrari 312T",
+        "anno": 1975,
+        "piloti": ["Niki Lauda", "Clay Regazzoni"],
+        "motore": "V12 3.0L",
+        "potenza": "485 CV",
+        "velocita_max": "330 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ferrari_312T_1975.jpg"
+      },
+      {
+        "nome": "Ferrari 312T2",
+        "anno": 1976,
+        "piloti": ["Niki Lauda", "Clay Regazzoni"],
+        "motore": "V12 3.0L",
+        "potenza": "510 CV",
+        "velocita_max": "335 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/d/d4/LaudaNiki19760731Ferrari312T2.jpg"
+      },
+      {
+        "nome": "Ferrari 312T3",
+        "anno": 1978,
+        "piloti": ["Niki Lauda", "Carlos Reutemann"],
+        "motore": "V12 3.0L",
+        "potenza": "520 CV",
+        "velocita_max": "340 km/h",
+        "immagine": "https://storage.googleapis.com/fp-media/1/2012/01/ferrari-312t3-2-2.jpg"
+      },
+      {
+        "nome": "Ferrari 312T4",
+        "anno": 1979,
+        "piloti": ["Jody Scheckter", "Gilles Villeneuve"],
+        "motore": "V12 3.0L",
+        "potenza": "540 CV",
+        "velocita_max": "350 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e0f5290bbb0ae37859444b5-ferrari-312-t4-1979-share?width=1080"
+      },
+      {
+        "nome": "Ferrari 312T5",
+        "anno": 1980,
+        "piloti": ["Gilles Villeneuve", "Jody Scheckter"],
+        "motore": "V12 3.0L",
+        "potenza": "550 CV",
+        "velocita_max": "355 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e146382f3cd93125613000a-ferrari-312-t5-1980-share?width=1080"
+      },
+      {
+        "nome": "Ferrari 126C",
+        "anno": 1981,
+        "piloti": ["Carlos Reutemann", "Patrick Tambay"],
+        "motore": "V6 turbo 1.5L",
+        "potenza": "550 CV",
+        "velocita_max": "330 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e146c1abbb0ae378595591a-ferrari-126-cx-1981-share?width=1080"
+      },
+      {
+        "nome": "Ferrari 126C2",
+        "anno": 1982,
+        "piloti": ["Patrick Tambay", "Gilles Villeneuve"],
+        "motore": "V6 turbo 1.5L",
+        "potenza": "570 CV",
+        "velocita_max": "340 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e148a248136ba779e1b2a60-ferrari-126-c2-1982-share?width=1080"
+      },
+      {
+        "nome": "Ferrari 156/85",
+        "anno": 1985,
+        "piloti": ["Michele Alboreto", "Stefan Johansson"],
+        "motore": "V6 turbo 1.5L",
+        "potenza": "600 CV",
+        "velocita_max": "340 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e149442bbb0ae37859563c4-ferrari-156-85-1985-share?width=1080"
+      },
+      {
+        "nome": "Ferrari F1/87",
+        "anno": 1987,
+        "piloti": ["Gerhard Berger", "Michele Alboreto"],
+        "motore": "V6 turbo 1.5L",
+        "potenza": "650 CV",
+        "velocita_max": "350 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5d036dd63ad9250aee5323cf?width=1080"
+      },
+      {
+        "nome": "Ferrari F1/88C",
+        "anno": 1988,
+        "piloti": ["Gerhard Berger", "Michele Alboreto"],
+        "motore": "V6 3.5L",
+        "potenza": "670 CV",
+        "velocita_max": "360 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5d036eca12e3b50c1510ab20?width=1080"
+      },
+      {
+        "nome": "Ferrari 640",
+        "anno": 1989,
+        "piloti": ["Nigel Mansell", "Gerhard Berger"],
+        "motore": "V12 3.5L",
+        "potenza": "730 CV",
+        "velocita_max": "370 km/h",
+        "immagine": "https://cdn-autosprint.corrieredellosport.it/img/1200/600/2024/03/26/181304197-a5f1adfe-653b-4a66-a930-8f6c61fe502f.jpg"
+      },
+      {
+        "nome": "Ferrari 641",
+        "anno": 1990,
+        "piloti": ["Alain Prost", "Nigel Mansell"],
+        "motore": "V12 3.5L",
+        "potenza": "750 CV",
+        "velocita_max": "380 km/h",
+        "immagine": "https://www.giornalemotori.com/wp-content/uploads//2020/03/Ferrari-641-F1-2968.jpg"
+      },
+      {
+        "nome": "Ferrari 641/2",
+        "anno": 1991,
+        "piloti": ["Alain Prost", "Nigel Mansell"],
+        "motore": "V12 3.5L",
+        "potenza": "800 CV",
+        "velocita_max": "380 km/h",
+        "immagine": "https://storage.googleapis.com/fp-media/1/2015/01/Ferrari-641-2-Mansell-1990.jpg"
+      },
+      {
+        "nome": "Ferrari F92A",
+        "anno": 1992,
+        "piloti": ["Jean Alesi", "Alain Prost"],
+        "motore": "V12 3.5L",
+        "potenza": "810 CV",
+        "velocita_max": "385 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e15a4898136ba779e1b6a02-ferrari-f92-a-1992-share?width=1080"
+      },
+      {
+        "nome": "Ferrari F93A",
+        "anno": 1993,
+        "piloti": ["Jean Alesi", "Gerhard Berger"],
+        "motore": "V12 3.5L",
+        "potenza": "820 CV",
+        "velocita_max": "390 km/h",
+        "immagine": "https://www.motoremotion.it/wp-content/uploads/2023/03/Ferrari1993_phCampi_1200x_1016.jpg"
+      },
+      {
+        "nome": "Ferrari F300",
+        "anno": 1998,
+        "piloti": ["Mika Salo", "Eddie Irvine"],
+        "motore": "V10 3.0L",
+        "potenza": "800 CV",
+        "velocita_max": "370 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e15e9f5bbb0ae378595b1a0-ferrari-f300-1998-share?width=1080"
+      },
+      {
+        "nome": "Ferrari F310",
+        "anno": 1996,
+        "piloti": ["Michael Schumacher", "Eddie Irvine"],
+        "motore": "V10 3.0L",
+        "potenza": "800 CV",
+        "velocita_max": "375 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e15b64bbbb0ae378595a4b2-ferrari-f310-1996-share?width=1080"
+      },
+      {
+        "nome": "Ferrari F310B",
+        "anno": 1997,
+        "piloti": ["Michael Schumacher", "Eddie Irvine"],
+        "motore": "V10 3.0L",
+        "potenza": "825 CV",
+        "velocita_max": "380 km/h",
+        "immagine": "https://www.formulacritica.it/wp-content/uploads/2024/08/Ferrari-F310B-jpg.webp"
+      },
+      {
+        "nome": "Ferrari F399",
+        "anno": 1999,
+        "piloti": ["Michael Schumacher", "Eddie Irvine"],
+        "motore": "V10 3.0L",
+        "potenza": "850 CV",
+        "velocita_max": "390 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e15ecae8136ba779e1b7c6c-ferrari-f399-1999-share?width=1080"
+      },
+      {
+        "nome": "Ferrari F2000",
+        "anno": 2000,
+        "piloti": ["Michael Schumacher", "Rubens Barrichello"],
+        "motore": "V10 3.0L",
+        "potenza": "850 CV",
+        "velocita_max": "305 km/h",
+        "immagine": "https://staticfanpage.akamaized.net/wp-content/uploads/sites/27/2023/03/ferrari-f2000-schumacher-asta-0111-1200x675.jpg"
+      },
+      {
+        "nome": "Ferrari F2001",
+        "anno": 2001,
+        "piloti": ["Michael Schumacher", "Rubens Barrichello"],
+        "motore": "V10 3.0L",
+        "potenza": "860 CV",
+        "velocita_max": "310 km/h",
+        "immagine": "https://img.stcrm.it/images/11808487/CINEMA/1200x/schumi-hungaroring-f2001.jpeg"
+      },
+      {
+        "nome": "Ferrari F2002",
+        "anno": 2002,
+        "piloti": ["Michael Schumacher", "Rubens Barrichello"],
+        "motore": "V10 3.0L",
+        "potenza": "875 CV",
+        "velocita_max": "315 km/h",
+        "immagine": "https://ferrari-cdn.thron.com/delivery/public/thumbnail/ferrari/831ade9d-9be3-4083-9b9e-990785d94563/bocxuw/std/488x325/831ade9d-9be3-4083-9b9e-990785d94563?scalemode=auto"
+      },
+      {
+        "nome": "Ferrari F2003-GA",
+        "anno": 2003,
+        "piloti": ["Michael Schumacher", "Rubens Barrichello"],
+        "motore": "V10 3.0L",
+        "potenza": "890 CV",
+        "velocita_max": "320 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/4/45/Michael_Schumacher_2003_Silverstone_%28cropped%29.jpg"
+      },
+      {
+        "nome": "Ferrari F2004",
+        "anno": 2004,
+        "piloti": ["Michael Schumacher", "Rubens Barrichello"],
+        "motore": "V10 3.0L",
+        "potenza": "900 CV",
+        "velocita_max": "325 km/h",
+        "immagine": "https://cdn-autosprint.corrieredellosport.it/images/2022/12/16/150431085-649380ec-ef18-4b99-a571-e36703f80e4d.jpg"
+      },
+      {
+        "nome": "Ferrari F2005",
+        "anno": 2005,
+        "piloti": ["Michael Schumacher", "Rubens Barrichello"],
+        "motore": "V10 3.0L",
+        "potenza": "900 CV",
+        "velocita_max": "320 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e1c81fc6cb08e161227da0e-ferrari-f2005-2005-share?width=1080"
+      },
+      {
+        "nome": "Ferrari 248 F1",
+        "anno": 2006,
+        "piloti": ["Michael Schumacher", "Felipe Massa"],
+        "motore": "V8 2.4L",
+        "potenza": "880 CV",
+        "velocita_max": "310 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/9/93/Felipe_Massa_2006_Canada_%28crop%29.PNG"
+      },
+      {
+        "nome": "Ferrari F60",
+        "anno": 2009,
+        "piloti": ["Kimi Räikkönen", "Felipe Massa"],
+        "motore": "V8 2.4L",
+        "potenza": "750 CV",
+        "velocita_max": "320 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Raikkonen_Spain_2009.jpg/1200px-Raikkonen_Spain_2009.jpg"
+      },
+      {
+        "nome": "Ferrari F10",
+        "anno": 2010,
+        "piloti": ["Fernando Alonso", "Felipe Massa"],
+        "motore": "V8 2.4L",
+        "potenza": "800 CV",
+        "velocita_max": "320 km/h",
+        "immagine": "https://dimages2.gazzettaobjects.it/files/article_main_microformat/uploads/2023/09/28/65156fea2db9e.jpeg"
+      },
+      {
+        "nome": "Ferrari F2012",
+        "anno": 2012,
+        "piloti": ["Fernando Alonso", "Felipe Massa"],
+        "motore": "V8 2.4L",
+        "potenza": "800 CV",
+        "velocita_max": "315 km/h",
+        "immagine": "https://storage.googleapis.com/fp-media/1/2012/10/PHOTO4_450905.jpg"
+      },
+      {
+        "nome": "Ferrari F138",
+        "anno": 2013,
+        "piloti": ["Fernando Alonso", "Felipe Massa"],
+        "motore": "V8 2.4L",
+        "potenza": "750 CV",
+        "velocita_max": "315 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/60647dd393428b09451fe96e-ferrari-ccl-xx-programmes-f1-clienti-monza-2021-f138-desk"
+      },
+      {
+        "nome": "Ferrari F14 T",
+        "anno": 2014,
+        "piloti": ["Fernando Alonso", "Kimi Räikkönen"],
+        "motore": "V6 1.6L Turbo",
+        "potenza": "700 CV",
+        "velocita_max": "310 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e1f2318631b160ad8f14387-ferrari-f14-t-2014-project-focus-1?"
+      },
+      {
+        "nome": "Ferrari SF15-T",
+        "anno": 2015,
+        "piloti": ["Sebastian Vettel", "Kimi Räikkönen"],
+        "motore": "V6 1.6L Turbo",
+        "potenza": "800 CV",
+        "velocita_max": "310 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e1f31b2631b160ad8f147b2-ferrari-sf15-t-2015-share?width=1080"
+      },
+      {
+        "nome": "Ferrari SF16-H",
+        "anno": 2016,
+        "piloti": ["Sebastian Vettel", "Kimi Räikkönen"],
+        "motore": "V6 1.6L Turbo",
+        "potenza": "850 CV",
+        "velocita_max": "320 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sebastian_Vettel_2016_Malaysia_FP2_1.jpg"
+      },
+      {
+        "nome": "Ferrari SF70H",
+        "anno": 2017,
+        "piloti": ["Sebastian Vettel", "Kimi Räikkönen"],
+        "motore": "V6 1.6L Turbo",
+        "potenza": "900 CV",
+        "velocita_max": "325 km/h",
+        "immagine": "https://cdn.ferrari.com/cms/network/media/img/resize/5e203324631b160ad8f18135-ferrari-sf70h-2017-share?width=1080"
+      },
+      {
+        "nome": "Ferrari SF71H",
+        "anno": 2018,
+        "piloti": ["Sebastian Vettel", "Kimi Räikkönen"],
+        "motore": "V6 1.6L Turbo",
+        "potenza": "920 CV",
+        "velocita_max": "330 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/3/37/R%C3%A4ikk%C3%B6nen_Ferrari_SF71H_Testing_Barcelona.jpg"
+      },
+      {
+        "nome": "Ferrari SF90",
+        "anno": 2019,
+        "piloti": ["Sebastian Vettel", "Charles Leclerc"],
+        "motore": "V6 1.6L Turbo",
+        "potenza": "1000 CV",
+        "velocita_max": "330 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/d/df/FIA_F1_Austria_2019_Nr._5_Vettel_1.jpg"
+      },
+      {
+        "nome": "Ferrari SF1000",
+        "anno": 2020,
+        "piloti": ["Sebastian Vettel", "Charles Leclerc"],
+        "motore": "V6 1.6L Turbo",
+        "potenza": "1000 CV",
+        "velocita_max": "330 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Charles_Leclerc-Ferrari_SF1000_%281%29.jpg"
+      },
+      {
+        "nome": "Ferrari SF21",
+        "anno": 2021,
+        "piloti": ["Charles Leclerc", "Carlos Sainz"],
+        "motore": "V6 1.6L Turbo",
+        "potenza": "950 CV",
+        "velocita_max": "330 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/FIA_F1_Austria_2021_Nr._16_Leclerc.jpg/1200px-FIA_F1_Austria_2021_Nr._16_Leclerc.jpg"
+      },
+      {
+        "nome": "Ferrari F1-75",
+        "anno": 2022,
+        "piloti": ["Charles Leclerc", "Carlos Sainz"],
+        "motore": "V6 1.6L Turbo",
+        "potenza": "1050 CV",
+        "velocita_max": "335 km/h",
+        "immagine": "https://cdn-3.motorsport.com/images/amp/YEQP1BMY/s6/charles-leclerc-ferrari-f1-75-.jpg"
+      },
+      {
+        "nome": "Ferrari SF-23",
+        "anno": 2023,
+        "piloti": ["Charles Leclerc", "Carlos Sainz"],
+        "motore": "V6 1.6L Turbo",
+        "potenza": "1070 CV",
+        "velocita_max": "340 km/h",
+        "immagine": "https://upload.wikimedia.org/wikipedia/commons/9/9f/FIA_F1_Austria_2023_Nr._55_%281%29.jpg"
+      },
+      {
+        "nome": "Ferrari SF-24",
+        "anno": 2024,
+        "piloti": ["Charles Leclerc", "Carlos Sainz"],
+        "motore": "V6 1.6L Turbo",
+        "potenza": "1100 CV",
+        "velocita_max": "340 km/h",
+        "immagine": "https://diariosullarossa.com/wp-content/uploads/2024/09/GWZUyykXIAA2ucE.jpeg"
+      },
+      {
+        "nome": "Ferrari SF-25",
+        "anno": 2025,
+        "piloti": ["Charles Leclerc", "Lewis Hamilton"],
+        "motore": "V6 1.6L Turbo",
+        "potenza": "1100 CV",
+        "velocita_max": "345 km/h",
+        "immagine": "https://newsgpcdn.vshcdn.net/i/images/2027/ferrari-2025-f1-car-track-debut_f.jpg"
+      }
+
+    ]
+  
+  
